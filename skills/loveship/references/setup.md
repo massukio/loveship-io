@@ -179,6 +179,8 @@ Init empty data files if missing:
 - Write `<love_data>/memories.yaml` using the Memory Schema above
 - Write `<love_data>/feedback.yaml` using the Feedback Schema above
 
+**IMPORTANT**: Only create these 3 YAML files (`config.yaml`, `memories.yaml`, `feedback.yaml`) in the `love_data` directory. Do NOT copy or create any `.md` reference files there — the `references/*.md` files are skill source code, not user data.
+
 ### Step 8: Confirmation
 
 Print a summary (in user's language) of what was saved. Remind the user:
