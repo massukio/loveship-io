@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# LoveShip user data (if love_data is set inside workspace)
+config.yaml
+memories.yaml
+feedback.yaml
+
+# IDE skill installs (project-scope copies, not source)
+.claude/
+.github/skills/
+.copilot/
+.cursor/skills/
+.agents/
