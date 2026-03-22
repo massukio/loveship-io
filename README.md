@@ -1,6 +1,6 @@
 # LoveShip.io
 
-> 她傳了「隨便」，你回了「好」。從此你們三天沒說話。
+> 她傳了「隨便你」，你回了「好」。從此你們三天沒說話。
 >
 > Your AI wingman for love — decodes cryptic texts, plans unforgettable dates, remembers everything you forgot, and makes sure you never show up empty-handed.
 

@@ -1,5 +1,6 @@
 ---
 name: loveship
+version: 1.0.0
 description: "LoveShip — your AI relationship advisor that actually gets it. Decodes cryptic texts, plans dates worth leaving the house for, remembers everything you forgot, and learns your partner's quirks over time. Just talk naturally about your love life — LoveShip figures out what you need."
 license: MIT
 ---
