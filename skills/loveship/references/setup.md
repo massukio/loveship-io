@@ -50,7 +50,7 @@ preferences:
   my_dietary: ""              # e.g., vegetarian, no shellfish
   partner_dietary: ""         # e.g., vegan, gluten-free
   my_love_languages: []       # Ranked top 3. Values: words-of-affirmation, acts-of-service, receiving-gifts, quality-time, physical-touch
-  partner_love_languages: []  # Ranked top 3, first = primary
+  partner_love_languages: []  # NOT asked during setup — learned over time from conversations and feedback
   no_go_zones: []             # Topics or activities to avoid
 
 learned_preferences:          # Auto-populated by feedback — DO NOT fill during setup
@@ -156,12 +156,13 @@ If dating/married → ask anniversary + started_dating (YYYY-MM-DD).
 ### Step 6: Preferences
 
 - Dietary restrictions (yours and partner's)
-- Love languages — explain the 5 options in the user's language, ask to rank top 3 for each:
+- **Your** love languages — explain the 5 options in the user's language, ask the user to rank their own top 3:
   - words-of-affirmation
   - acts-of-service
   - receiving-gifts
   - quality-time
   - physical-touch
+- **Partner's love languages — do NOT ask during setup.** The user often doesn't know (that's why they're using LoveShip). Leave `partner_love_languages` empty. These will be discovered over time through conversations, memories, and feedback.
 - No-go zones (topics/activities to avoid)
 
 ### Step 7: Save
